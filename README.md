@@ -1,0 +1,2 @@
+# TextExtractionFromImage
+SDP Project
